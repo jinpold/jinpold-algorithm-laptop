@@ -2,7 +2,7 @@ package jinPractice;
 
 import java.util.*;
 
-public class star4 {
+public class Star2441 {
     public static void main(String[] args) {
 
         Scanner scan = new Scanner(System.in);
