@@ -1,8 +1,8 @@
-package jinPractice;
+package BOJ;
 
 import java.util.Scanner;
 
-public class Star2442 {
+public class BOJ2442 {
 
     public static void main(String[] args) {
 

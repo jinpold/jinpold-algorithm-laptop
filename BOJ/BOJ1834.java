@@ -1,6 +1,6 @@
-package jinPractice;
+package BOJ;
 import java.util.Scanner;
-public class Remain1834 {
+public class BOJ1834 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         long num = scan.nextLong();
