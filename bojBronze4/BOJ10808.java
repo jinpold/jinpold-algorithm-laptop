@@ -17,6 +17,4 @@ public class BOJ10808 {
         }
     }
 
-
-
 }
