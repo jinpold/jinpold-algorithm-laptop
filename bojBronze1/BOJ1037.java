@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class BOJ1037 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        int N = sc.nextInt(); // 약수의 개수
+        int N = sc.nextInt();
         int[] num = new int[N];
 
         for(int i=0; i<N; i++){
